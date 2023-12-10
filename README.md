@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IbrahimShuaibu
+- 👋 Hi, I’m Ibrahim Shu'aibu
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate with like-minded peoples
